@@ -20,7 +20,7 @@ const Footer = () => {
         whenever open to the webpage. Add products to addtocart to buy the product. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, totam, veniam consectetur quibusdam reprehenderit quam corporis aliquid nemo ullam similique qui blanditiis aliquam eos iure maiores eveniet? Voluptatem, nisi vitae?
       </p></div>
       <div id='copyright'>
-        <p>©Copyright Nov 2022  Designed and Built by <span>Nirmal</span></p>
+        <p>©Copyright Nov 2022  Designed and Built by <span>Naushad</span></p>
       </div>
     </div>
   )

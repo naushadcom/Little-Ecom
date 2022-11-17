@@ -66,7 +66,7 @@ import {
   <input 
     id="search_item" 
     type="text" 
-    placeholder="...Search Grocery Products"
+    placeholder="...Search Products"
     onChange={(e)=>{
       setSearch(e.target.value)
     }}/>
